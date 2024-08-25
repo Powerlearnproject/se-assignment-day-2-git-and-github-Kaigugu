@@ -73,7 +73,7 @@ Steps to make a commit:-
 *Common challenges:-
 1) Code conflicts:- when changes are made by two different developers on the same file within a repository. 
 2) Overwriting changes:- This occurs when a developer pushes changes without pulling the latest change.
-Best practices:To avoid this encourage communiation among developers and regularly updating and pulling changes from the main branch to keep individuals informed on lastest modifications.
+*Best practices:To avoid this encourage communiation among developers and regularly updating and pulling changes from the main branch to keep individuals informed on lastest modifications.
 * New users pitfalls and strategies to deploy
 1) Managing time and prioritizing tasks: Wisely allocating time and prioritizing tasks will help in contributing to all projects.
 2) Collaborating effectively with other:- Due to timezones, communicationstyles can lead to conflicts and delays in projects.But with good use of tools such as Version control systems and communiication channels can facilitate collaboration and ease on workflow.
